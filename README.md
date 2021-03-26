@@ -1,5 +1,6 @@
 # MyChatbot-kotlin
 _Android_app_development_
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style-flat-square&logo=Kotlin&logoColor=white)
 
 
 # Responsive chatbot application
@@ -23,8 +24,3 @@ _Android_app_development_
 
 <img src="https://user-images.githubusercontent.com/67156494/112649567-e77a0a80-8e8d-11eb-9d17-d0480dfd9d0d.JPG"  width="370" height="700">
 - 5. contents2
-
-
-
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style-flat-square&logo=Kotlin&logoColor=white)
