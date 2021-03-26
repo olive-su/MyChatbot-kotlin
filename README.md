@@ -1,6 +1,6 @@
 # MyChatbot-kotlin
-_Android_app_development_
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style-flat-square&logo=Kotlin&logoColor=white)
+   _Android_app_development_
 
 
 # Responsive chatbot application
