@@ -5,7 +5,7 @@ _Android_app_development_
 # Responsive chatbot application
 
 
-![1_main](https://user-images.githubusercontent.com/67156494/112649523-dfba6600-8e8d-11eb-9c9d-3806c53f74a9.JPG)
+![1_main] <img src="https://user-images.githubusercontent.com/67156494/112649523-dfba6600-8e8d-11eb-9c9d-3806c53f74a9.JPG"  width="370" height="700">
 - 1. main
 
 
