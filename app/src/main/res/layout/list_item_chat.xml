@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff">
+
+
+    <!--사용자 입력 말풍선-->
+    <TextView
+        android:id="@+id/textView_user"
+        android:background="@drawable/round2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_marginRight="24dp"
+        android:layout_gravity="right"
+        android:text="TextView"
+        android:textStyle="normal"
+        android:textSize="12sp"
+        android:textColor="#ffffff"
+        android:lineSpacingExtra="8sp"
+        android:paddingTop="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="4dp"
+        android:visibility="gone"/>
+
+    <!-- 챗봇 인사 -->
+    <LinearLayout
+        android:id="@+id/chatLayout"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:paddingLeft="24dp"
+        android:visibility="gone">
+
+        <!-- 사용자 프로필 사진 이미지 -->
+        <ImageView
+            android:id="@+id/userImg"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:background="@drawable/img_main"/>
+
+        <!-- 챗봇 기본 말풍선 -->
+        <TextView
+            android:id="@+id/textView_chatbot"
+            android:background="@drawable/round"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:textStyle="normal"
+            android:textSize="12sp"
+            android:textColor="#333333"
+            android:lineSpacingExtra="5sp"
+            android:paddingTop="8dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="10dp"/>
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
